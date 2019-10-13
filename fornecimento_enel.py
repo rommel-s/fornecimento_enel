@@ -1,4 +1,5 @@
-
+#Calcular consumo de luz
+print('='*30, 'CALCULAR CONSUMO DE LUZ', '='*30)
 #primeiro input: Consumo
 kilowatts = int(input('Insira a quantidade de kWh consumida\n: '))
 print('-'*40)
